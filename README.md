@@ -36,7 +36,7 @@ Full-stack developer and Informatics Engineering student building robust web app
 
 ## Links
 
-- LinkedIn: [linkedin.com/in/irgimondo](www.linkedin.com/in/irgiansyah-mondo-ba890b328)
+- LinkedIn: [Irgiansyah Mondo](https://www.linkedin.com/in/irgiansyah-mondo-ba890b328)
 - Email: [irgimondo@gmail.com](mailto:irgimondo@gmail.com)
 
 ## GitHub stats
